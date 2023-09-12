@@ -1,1 +1,1 @@
-* Snake Game For Raulib
+* Snake Game For Raylib
